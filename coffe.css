@@ -1,0 +1,16 @@
+picture {
+    width:  7px;
+    height: 7px;
+}
+
+
+body {
+    font-family: 'drawing', sans-serif;
+}
+@font-face {
+    font-family: 'drawing';
+    src: url('PlayfairDisplay-Italic-VariableFont_wght.ttf') format('woff2'),
+         url('PlayfairDisplay-VariableFont_wght.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
